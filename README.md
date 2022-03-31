@@ -1,7 +1,11 @@
 ### Presentación
-**Hola estoy probando los distintos estilos xd**
+
+#**Hola estoy probando los distintos estilos xd**
+
 ~~La verdad que no se que poner aca~~
+
 ***Que se yo, me gustan los comics, las peliculas y el fulvo xd***
+
 
 ## Estudiante: Matteo Calbi
 ![mi foto](foto.jpg)
